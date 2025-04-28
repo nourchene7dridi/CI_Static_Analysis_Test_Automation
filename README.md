@@ -1,21 +1,64 @@
-# UR1/ESIR DevOps Course
-This repository contains the material and content of the DevOps course at the engineering school ESIR of the University of Rennes 1. 
+#  Sujet : CI, Analyse statique et Tests automatisés 
 
-## Year 2024-2025
+Travail réalisé par :
+* DJOKO KOUAM Léa 
+* DRIDI Nourchène
+* ZAIED Asma
 
-### Scheduling
 
-- Introduction to the course and DevOps: March 25th, 2025
-- Quick overview of DevSecOps and MLSecOps: May the 23rd, 2025
-- Final presentations: May 16th, 2025 (8h-11h)
+## 🚨 Installations requises 
+### Docker : 
+- Sur Windows 11: Tuto installation pas à pas :  [](https://www.ionos.fr/digitalguide/serveur/configuration/docker-sur-windows-11/)
 
-### Material
+## 📖 Introduction générale
+Doodle est un projet de microservices permettant la planification de réunions collaboratives.
 
-All the material can be found on the Moodle module dedicated to this class.
+Dans ce travail, nous intégrons des processus DevOps : intégration continue, analyse statistique des tests, et automatisation des tests, afin de fiabiliser les développements futurs.
 
-### Tutorial activities
 
-Students have to choose a system with micro-services to apply some DevOps related tools on it;
-if they cannot think of such system/project, they can go to the [doodle](https://github.com/barais/doodlestudent) github page and use it.
-You can also find a "detailled" pull request to launch the application on "dev mode".
-This is the kind of pull requests that is expected to be __sent on THIS repo__ for the evaluation of your technical realisation
+## 🎯 Objectifs du travail
+Notre PR a pour but de mettre en place : 
+- Automatisation de build et tests.
+- Mesure quantitative (couverture de tests, qualité du code).
+- Faciliter l'intégration de nouvelles contributions sans dégradation.
+
+
+## 🏗️ Contexte initial du projet
+Avant nos améliorations, le projet Doodle ne comportait pas de processus d'intégration continue ni d'automatisation des tests.
+
+L'absence d'analyses quantitatives limitait la capacité à assurer la qualité du code.
+
+## ⚙️ Modifications techniques apportées
+
+### 1. Intégration continue (CI) 🛠️
+#### Définition 
+#### Ce qu'on a pu faire 
+#### Ressources utiles 
+#### Extrait ci.yml 
+
+
+### 2. Analyse statique 🛠️
+#### Définition 
+#### Ce qu'on a pu faire 
+#### Ressources utiles 
+#### Exemples de commande  (pour générer des stats locales)
+#### Résultat 
+
+### 3. Automatisation des tests 🛠️
+#### Définition 
+#### Ce qu'on a pu faire 
+#### Ressources utiles 
+#### Exemples de commande  (tester et lancer)
+
+
+## 🔍 Détail de la mise en œuvre
+
+## 📈 Résultats obtenus
+
+## 🚀 Procédure pour tester le projet
+
+## 🛑 Problèmes rencontrés
+
+## 📋 Limites actuelles
+
+## ✨ Pistes d'améliorations futures
